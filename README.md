@@ -6,7 +6,7 @@ En el siguiente los siguientes links se encontraran mi cv personal y el fork y c
 
 ## pagina web
 ## 🔗 Links
-[portafolio](https://benjaminmondacadonoso.github.io/curriculum-vitae/)
+Mi curriculum: (https://benjaminmondacadonoso.github.io/curriculum-vitae/)
 
 Fork 1:https://github.com/BenjaminMondacadonoso/desafio-portafolio
 
